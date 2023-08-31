@@ -1,0 +1,23 @@
+{
+    "name": "Test Collection",
+    "description": "NFT collection for testing creation code",
+    "image": "./assets/img/test.jpg",
+    "attributes": [
+      {
+        "trait_type": "title",
+        "value": "My Test"
+      },
+      {
+        "trait_type": "person",
+        "value": "Agustin"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "type": "image/jpg",
+          "uri": "./assets/img/capa_twitch.jpg"
+        }
+      ]
+    }
+  }

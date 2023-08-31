@@ -1,0 +1,31 @@
+{
+  "name": "Test Collection for TCC",
+  "description": "Cole��o teste criada para apresenta��o do TCC",
+  "image": "https://v2.akord.com/public/vaults/active/vbpMj79h-nx8YOpI6qMxJZ_uWxqJX43Ix3GheCOJ4M4/gallery#public/18dc4833-6595-4b89-8d4b-6e85ff0f2b59",
+  "attributes": [
+    {
+      "trait_type": "title",
+      "value": "test collection"
+    },
+    {
+      "trait_type": "quality",
+      "value": "goo"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "https://v2.akord.com/public/vaults/active/vbpMj79h-nx8YOpI6qMxJZ_uWxqJX43Ix3GheCOJ4M4/gallery#public/b4ee6795-e499-43d2-8e25-052aef8f09fb"
+      },
+{
+        "type": "image/png",
+        "uri": "https://v2.akord.com/public/vaults/active/vbpMj79h-nx8YOpI6qMxJZ_uWxqJX43Ix3GheCOJ4M4/gallery#public/7103aa00-a710-4b1d-a453-ae71a0560351"
+      },
+{
+        "type": "image/png",
+        "uri": "https://v2.akord.com/public/vaults/active/vbpMj79h-nx8YOpI6qMxJZ_uWxqJX43Ix3GheCOJ4M4/gallery#public/918775f9-d52d-4c80-b42e-7be76239cc24"
+      }
+    ]
+  }
+}

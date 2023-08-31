@@ -1,0 +1,1 @@
+const SOLANA_CONNECTION = new Connection('https://api.devnet.solana.com');
